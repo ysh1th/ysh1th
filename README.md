@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React<br>
+🌱 An undergrad CS student at BITS Pilani, Dubai Campus<br>
 
 
 ## 🌐 Socials:
